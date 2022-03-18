@@ -1,6 +1,5 @@
 requests
 time
 random
-os
 user_agent
 colorama
