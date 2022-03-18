@@ -1,7 +1,15 @@
-import requests
-from time import sleep
-import  random,os,user_agent
-from colorama import init,Fore
+try:
+    import requests
+    from time import sleep
+    import  random,os,user_agent
+    from colorama import init,Fore
+except:
+    for lb in open('requirements.txt','r').read().splitlines():
+        os.system(f'pip install {str(lb)}')
+    import requests
+    from time import sleep
+    import  random,os,user_agent
+    from colorama import init,Fore
 init(autoreset=True)
 cr=Fore.RED
 cy=Fore.YELLOW
