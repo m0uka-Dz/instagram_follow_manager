@@ -1,5 +1,8 @@
-# instaRequests
+# Instagram Follow Request Manager
+This Python tool provides automation for managing follow requests on Instagram. It allows users to accept or decline incoming follow requests in bulk, streamlining the process of managing followers.
 
-## Accept And ignore Requests InstaGram
-
-![Capture](https://user-images.githubusercontent.com/80654458/159063522-0d8c9c51-55e6-404e-bb28-3192d79a8590.PNG)
+### Features
+Automated Follow Request Management: Accept or decline pending follow requests on Instagram with ease.
+Bulk Actions: Process multiple follow requests simultaneously to save time.
+Customization: Customize the tool to fit your specific needs and preferences.
+Efficiency: Streamline the process of managing followers, making it more efficient and less time-consuming.
