@@ -15,7 +15,7 @@ cr=Fore.RED
 cy=Fore.YELLOW
 cg=Fore.GREEN
 
-class olaa():
+class mka():
 
     def getusers(self):
         try:
@@ -193,4 +193,4 @@ class olaa():
              elif qui=='2':self.qui=2
              else:print(cr+'Wrong Number');exit()
              self.getusers()
-olaa()
+mka()
