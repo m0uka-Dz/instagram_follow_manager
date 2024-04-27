@@ -19,11 +19,17 @@ This Python tool provides automation for managing follow requests on Instagram. 
 * Instagram account credentials (username and password)
 
 ### Installation
-
 1. Clone this repository to your local machine: ` git clone  https://github.com/m0uka-Dz/instaRequests.git `
 2. Install the required dependencies: ` pip3 install -r requirements.txt `
 
 ### Usage
+1. Run `python3 FollowManager.py`
+2. Select Login Method
+   * For logging in with a username/password, choose option 1 and enter your credentials.
+   * For logging in with a session ID, choose option 2 and enter your session ID.µ
+3. Select Request Action
+   * For approval, choose option 1 and enter.
+   * For reject, choose option 2 and enter.
 
 
 ### Disclaimer
@@ -33,4 +39,4 @@ This tool is intended for educational purposes and should be used responsibly. E
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/m0uka-Dz/instagram_follow_manager/blob/main/LICENSE) file for details.
